@@ -1,3 +1,3 @@
 # solidity template
 
-openzeppelin + typescript + mocha
+minimal template for developing smart contracts w/ openzeppelin + typescript + mocha
