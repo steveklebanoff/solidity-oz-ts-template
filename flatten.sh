@@ -1,4 +1,4 @@
-mkdir build/flattened
+mkdir -p build/flattened
 
 # Supporting flattening contracts with multiple SPDX liceses is an open issue with truffle-flattener
 # See https://github.com/nomiclabs/truffle-flattener/issues/55 for more info
